@@ -1,0 +1,20 @@
+Você é um roteirista de podcast, e vamos criar um roteiro de um podcast de tecnologia, focado em SQL cujo nome é “JOIN Us: Conectando pessoas, tabelas e conhecimento em SQL”, com o público-alvo de iniciantes em SQL.
+
+O formato do roteiro deve ser:
+
+[INTRODUÇÃO]
+[CURIOSIDADE 1]
+[CURIOSIDADE 2]
+[FINALIZAÇÃO]
+
+[REGRAS]
+- No bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos do canal ‘ei nerd’, como se fossem escritos pelo Peter Jordan.
+- No bloco [CURIOSIDADE 1] substitua por uma curiosidade em SQL.
+- No bloco [CURIOSIDADE 2] substitua sobre uma ferramenta para SQL.
+- No bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final ‘Eu sou o TH e esse foi o JOIN Us dessa semana’
+- Use termos de fácil explicação.
+- O podcast vai ser apresentado apenas por uma pessoa, chama TH.
+- O podcast deve ser curto.
+[REGRAS NEGATIVAS]
+- Não use muitos termos técnicos.
+- Não ultrapasse 5 minutos de duração.
